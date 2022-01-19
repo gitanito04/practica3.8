@@ -1,9 +1,25 @@
-div.cafeteria{
+h1{
+    font-weight: bold;
     color: brown;
     text-align: center;
-    font-weight: bold;
 }
 
 body{
     background-color: burlywood;
 }
+
+div.lacarta{
+    position: relative;
+    left: 550px;
+}
+
+div.cafe{
+    position: relative;
+    left: 825px;
+}
+
+div.contacto{
+    position: relative;
+    left: 1100px;
+}
+
