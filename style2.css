@@ -13,5 +13,26 @@ div.lacarta2{
    text-align: left;
 }
 
+h1.carta{
+    color: black;
+    font-weight: bold;
+}
+
+p.md{
+    color: black;
+    font-weight: bold;
+}
+
+ul.plato{
+    list-style-type: circle;
+}
+
+ol.roman{
+    list-style-type: upper-roman;
+}
+
+ol.segplato{
+    list-style-type: lower-latin;
+}
 
 
